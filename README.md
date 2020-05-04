@@ -1,5 +1,7 @@
-# fraser-lab.github.io
+# wisemanlab.github.io
 ====================
+
+This site is developed based off of the [Fraser Lab @ UCSF](https://fraserlab.com) template.
 
 Technologies this website uses:  
 
