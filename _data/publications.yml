@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Perea, V^**; **Baron, KR^**; **Dolina, V**; Aviles, Giovanni; **Rosarda, JD**; Guo, X; Kampmann, M; **Wiseman, RL** (2023) Pharmacologic Activation of a Compensatory Integrated Stress Response Kinase Promotes Mitochondrial Remodeling in PERK-deficient Cells, *Cell Chemical Biology*, ^equal contribution"
+  date: '2023'
+  image: '/static/img/pub/2023PereaBaronbioRXIV.png'
+  pmid: '36945406'
+  biorxiv: '2023.03.11.532186'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.03.11.532186v1.full.pdf'
+  links:
+    - name: Kampmann Lab @ UCSF
+      url: https://kampmannlab.ucsf.edu/
+
 - citation: "**Ibrahim, L; Stanton, C**; Nutsch, K; Nguyen, T; Li-Ma, C; Ko, Y; Lander, GC; **Wiseman, RL**#; Bollong, MJ# (2023) Succinylation of a KEAP1 Sensor Lysine Promotes NRF2 Activation, *Cell Chem Biol*. #Co-corresponding authors."
   date: '2023'
   image: '/static/img/pub/2023IbrahimbioRXIV.png'
@@ -60,7 +70,7 @@
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
 
-- citation: "**Rosarda, JD**; **Stanton, CR**; **Chen, EB**; Bollong, MJ; **Wiseman, RL** (2023) Pharmacologic Targeting of PDIA1 Inhibits NLRP3 Inflammasome Assembly and Activation, *bioRXIV*"
+- citation: "**Rosarda, JD**; **Stanton, CR**; **Chen, EB**; Bollong, MJ; **Wiseman, RL** (2023) Pharmacologic Targeting of PDIA1 Inhibits NLRP3 Inflammasome Assembly and Activation, *Israel Journal of Chemistry (Jeff Kelly Wolf Prize Issue)*"
   date: '2023'
   image: '/static/img/pub/2023RosardaPDIA1NLRP3.png'
   pmid:
@@ -119,16 +129,6 @@
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
-
-- citation: "**Perea, V^**; **Baron, KR^**; **Dolina, V**; Aviles, Giovanni; **Rosarda, JD**; Guo, X; Kampmann, M; **Wiseman, RL** (2023) Pharmacologic Activation of a Compensatory Integrated Stress Response Kinase Promotes Mitochondrial Remodeling in PERK-deficient Cells, *bioRxiv*, ^equal contribution"
-  date: '2023'
-  image: '/static/img/pub/2023PereaBaronbioRXIV.png'
-  pmid: '36945406'
-  biorxiv: '2023.03.11.532186'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.03.11.532186v1.full.pdf'
-  links:
-    - name: Kampmann Lab @ UCSF
-      url: https://kampmannlab.ucsf.edu/
 
 - citation: "Barad, BA; Medina, M; **Fuentes, D; Wiseman, RL**; Grotjahn, DA (2023) A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography, *J Cell Biol*"
   date: '2023'
