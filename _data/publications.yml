@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Riesenberg, BP; Gandy, EJ; Kennedy, AS; Hunt, EG; Hurst, KE; Sedlacek, EL; Gao, P; Emanuele, MK; Modliszewski, J; Green, JM; Milner, JJ; **Wiseman, RL**; Thaxton, J (2023) Adaptive IRE1 Signaling Elicits T Cell Metabolic Remodeling and Tumor Control, *bioRXIV*"
+  date: '2023'
+  image: '/static/img/pub/2023ThaxtonbioRXIV.png'
+  pmid:
+  biorxiv: '2023.11.16.567431'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.11.16.567431v1.full.pdf'
+  links:
+    - name: Thaxton Lab @ UNC
+      url: https://www.thaxtonimmuno.com/
+
 - citation: "**Perea, V^**; **Baron, KR^**; **Dolina, V**; Aviles, Giovanni; **Rosarda, JD**; Guo, X; Kampmann, M; **Wiseman, RL** (2023) Pharmacologic Activation of a Compensatory Integrated Stress Response Kinase Promotes Mitochondrial Remodeling in PERK-deficient Cells, *Cell Chemical Biology*, ^equal contribution"
   date: '2023'
   image: '/static/img/pub/2023PereaBaronbioRXIV.png'
