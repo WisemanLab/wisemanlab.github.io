@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Stanton, C; Sun, J**; Nutsch, K; **Rosarda, JD**; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**#, Bollong, MJ# (2024) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *ACS Chem Bio* #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2023StantonbioRXIV.png'
+  pmid: '37398499'
+  biorxiv: '2023.06.01.543248'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.06.01.543248v1.full.pdf'
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Riesenberg, BP; Gandy, EJ; Kennedy, AS; Hunt, EG; Hurst, KE; Sedlacek, EL; Gao, P; Emanuele, MK; Modliszewski, J; Green, JM; Milner, JJ; **Wiseman, RL**; Thaxton, J (2023) Adaptive IRE1 Signaling Elicits T Cell Metabolic Remodeling and Tumor Control, *bioRXIV*"
   date: '2023'
   image: '/static/img/pub/2023ThaxtonbioRXIV.png'
@@ -119,16 +129,6 @@
   links:
     - name: Grotjahn Lab @ Scripps Research
       url: https://grotjahnlab.org/
-
-- citation: "**Stanton, C; Sun, J**; Nutsch, K; **Rosarda, JD**; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**#, Bollong, MJ# (2023) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *bioRXIV* #Co-corresponding authors."
-  date: '2023'
-  image: '/static/img/pub/2023StantonbioRXIV.png'
-  pmid: '37398499'
-  biorxiv: '2023.06.01.543248'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.06.01.543248v1.full.pdf'
-  links:
-    - name: Bollong lab @ Scripps Research
-      url: https://www.bollong.scripps.edu/
 
 - citation: "Ko, Y; Hong, M; Klee, S; Kumar, S; **Ibrahim, L**; Nutsch, K; **Stanton, C**; Sondermann, P; Sandoval, B; Bulos, ML; Iaconelli, J; Chatterjee, AK; **Wiseman, RL**; Schultz, PG; Bollong, MJ (2023) S-lactoyl modification of KEAP1 by a reactive glycolytic metabolite activates NRF2 signaling, *PNAS*"
   date: '2023'
