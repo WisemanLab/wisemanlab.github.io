@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Madrazo, N; Khattar, Z**; Powers, ET; Rosarda, JD#; **Wiseman, RL**# (2024) Mapping Stress-Responsive Signaling Pathways Induced by Mitochondrial Proteostasis Perturbations, *bioRXIV* #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2024MadrazoRXIV.png'
+  pmid: 
+  biorxiv: 
+  pdf: 
+  links:
+    - name: Rosarda lab @ USUHS
+      url: https://medschool.usuhs.edu/profile/jessica-rosarda-phd
+
 - citation: "**Stanton, C; Sun, J**; Nutsch, K; **Rosarda, JD**; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**#, Bollong, MJ# (2024) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *ACS Chem Bio* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2023StantonbioRXIV.png'
