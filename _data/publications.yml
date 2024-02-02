@@ -54,8 +54,8 @@
   date: '2024'
   image: '/static/img/pub/2024MadrazobioRXIV.png'
   pmid: 
-  biorxiv: 
-  pdf: 
+  biorxiv: '2024.01.30.577830' 
+  pdf: 'https://www.biorxiv.org/content/10.1101/2024.01.30.577830v1.full.pdf' 
   links:
     - name: Rosarda lab @ USUHS
       url: https://medschool.usuhs.edu/profile/jessica-rosarda-phd
