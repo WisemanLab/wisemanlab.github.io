@@ -70,6 +70,16 @@
     - name: Rosarda lab @ USUHS
       url: https://medschool.usuhs.edu/profile/jessica-rosarda-phd
 
+- citation: "Hofman, C; Blackwood, EA; Sandmann, C; Herzog, N; Gross, J; **Plate, L; Wiseman, RL**; Kaufman, RJ; Katus, HA; Jakobi, T; Volkers, Mirko; Glembotski, CC; Doroudgar, S (2024) ATF4 Protects Against Protein Folding During Cardiac Hypertrophy, *J of Mol and Cellular Cardiology*"
+  date: '2024'
+  image: '/static/img/pub/2024HofmanJMCC.png'
+  pmid: 
+  biorxiv:  
+  pdf: 'https://www.sciencedirect.com/science/article/pii/S002228282400018X?dgcid=coauthor' 
+  links:
+    - name: Doroudgar lab @ Arizona
+      url: https://doroudgar-lab.org/
+
 - citation: "**Stanton, C; Sun, J**; Nutsch, K; **Rosarda, JD**; Nguyen, T; Li-Ma, C; **Kutseikin, S**; Saez, E; Teijaro, JR; **Wiseman, RL**#, Bollong, MJ# (2024) Covalent Targeting as a Common Mechanism for Inhibiting NLRP3 Inflammasome Assembly, *ACS Chem Bio* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2023StantonbioRXIV.png'
