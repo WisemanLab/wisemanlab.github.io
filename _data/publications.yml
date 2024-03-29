@@ -60,10 +60,10 @@
     - name: D'Antonio lab @ San Raffaele Scientific Institute, Milan
       url: https://research.hsr.it/en/divisions/genetics-and-cell-biology/biology-of-myelin/maurizio-d-antonio.html
 
-- citation: "**Madrazo, N; Khattar, Z**; Powers, ET; Rosarda, JD#; **Wiseman, RL**# (2024) Mapping Stress-Responsive Signaling Pathways Induced by Mitochondrial Proteostasis Perturbations, *bioRXIV* #Co-corresponding authors."
+- citation: "**Madrazo, N; Khattar, Z**; Powers, ET; Rosarda, JD#; **Wiseman, RL**# (2024) Mapping Stress-Responsive Signaling Pathways Induced by Mitochondrial Proteostasis Perturbations, *Mol Bio Cell* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024MadrazobioRXIV.png'
-  pmid: 
+  pmid: '38536439'
   biorxiv: '2024.01.30.577830' 
   pdf: 'https://www.biorxiv.org/content/10.1101/2024.01.30.577830v1.full.pdf' 
   links:
