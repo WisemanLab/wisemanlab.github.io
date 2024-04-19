@@ -55,7 +55,7 @@
   image: '/static/img/pub/2024StantonbioRXIV.png'
   pmid: 
   biorxiv: '' 
-  pdf: '' 
+  pdf:  
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
