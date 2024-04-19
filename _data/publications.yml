@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *bioRXIV* "
+  date: '2024'
+  image: '/static/img/pub/2024StantonbioRXIV.png'
+  pmid: 
+  biorxiv: '' 
+  pdf: '' 
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2024) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *bioRXIV*"
   date: '2024'
   image: '/static/img/pub/2024TouvieretalbioRXIV.png'
