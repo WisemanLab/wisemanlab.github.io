@@ -50,7 +50,7 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *bioRXIV* "
+- citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *bioRXIV* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024StantonbioRXIV.png'
   pmid: 
