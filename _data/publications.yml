@@ -50,6 +50,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Baron, KR^; Oviedo, S^; Krasny, S**; Zaman, M; **Aldakhlallah, R; Mathur, P**; Pfeffer, G; Bollong, MJ; Shutt, T; Grotjahn, D#; **Wiseman, RL**# (2024) Pharmacologic Activation of Integrated Stress Response Kinases Inhibits Pathologic Mitochondrial Fragmentation, *bioRXIV* ^Co-first authors, #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2024BaronOviedobioRXIV.png'
+  pmid: 
+  biorxiv: 
+  pdf:  
+  links:
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
+    - name: Shutt Lab @ U of Calgary
+      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
+
 - citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *bioRXIV* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024StantonbioRXIV.png'
