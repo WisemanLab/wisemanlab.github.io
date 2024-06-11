@@ -54,8 +54,8 @@
   date: '2024'
   image: '/static/img/pub/2024BaronOviedobioRXIV.png'
   pmid: 
-  biorxiv: 
-  pdf:  
+  biorxiv: '2024.06.10.598126'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2024.06.10.598126v1.full.pdf'
   links:
     - name: Grotjahn Lab @ Scripps Research
       url: https://grotjahnlab.org/
@@ -67,7 +67,7 @@
   image: '/static/img/pub/2024StantonbioRXIV.png'
   pmid: '38659753'
   biorxiv: '2024.04.19.589802 ' 
-  pdf:  'https://www.biorxiv.org/content/10.1101/2024.04.19.589802v1.full.pdf+html'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2024.04.19.589802v1.full.pdf+html'
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
