@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Kline, GM^; **Madrazo, N**^; Cole, CM; **Pannikkat, M**; Bollong, MJ; Rosarda, JD; Kelly, JW#; **Wiseman, RL**# (2024) Metabolically Activated Proteostasis Regulators that Protect Against Erastin-Induced Ferroptosis, *RSC Chem Biol*, in press. ^Co-first authors, #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2024KlineMadrazoRSC.png'
+  pmid: 
+  biorxiv: 
+  pdf: 'https://pubs.rsc.org/en/content/articlepdf/2024/cb/d4cb00027g'
+  links:
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+
 - citation: "**Baron, KR^; Oviedo, S^; Krasny, S**; Zaman, M; **Aldakhlallah, R; Mathur, P**; Pfeffer, G; Bollong, MJ; Shutt, T; Grotjahn, D#; **Wiseman, RL**# (2024) Pharmacologic Activation of Integrated Stress Response Kinases Inhibits Pathologic Mitochondrial Fragmentation, *bioRXIV* ^Co-first authors, #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024BaronOviedobioRXIV.png'
