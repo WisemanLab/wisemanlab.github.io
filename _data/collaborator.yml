@@ -19,8 +19,23 @@
 - name: Balch lab @ Scripps Research
   url: https://www.scripps.edu/balch/
 
+- name: Mendoza lab @ Scripps Research
+  url: https://themendozalab.org/lab-members
+
+- name: Law lab @ Scripps Research
+  url: https://law.scripps.edu/
+
 - name: Molecular Screening Center @ UF-Scripps
   url: https://hts.scripps.ufl.edu/
+
+- name: Thaxton lab @ UNC
+  url: https://www.thaxtonimmuno.com/
+
+- name: Shutt lab @ U Calgary
+  url: https://profiles.ucalgary.ca/tim-shutt
+
+- name: Kampmann lab @ UCSF
+  url: https://kampmannlab.ucsf.edu/
 
 - name: Glembotski lab @ Arizona
   url: https://www.glembotskilab.org/
@@ -28,8 +43,10 @@
 - name: Lin lab @ Stanford
   url: https://med.stanford.edu/profiles/216141
 
-- name: Murphy lab @ Boston University
-  url: http://murphylaboratory.com/
-
 - name: Haynes lab @ UMass Med School
   url: https://www.umassmed.edu/mccb/hayneslab/
+
+- name: D'Antonio lab @ Milan
+  url: https://research.hsr.it/en/divisions/genetics-and-cell-biology/biology-of-myelin/maurizio-d-antonio.html
+
+  
