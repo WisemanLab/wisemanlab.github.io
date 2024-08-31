@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *Cell Reports* #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2024StantonbioRXIV.png'
+  pmid: '39196782'
+  biorxiv: '2024.04.19.589802 ' 
+  pdf: 'https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2901039-8'
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Kline, GM^; **Madrazo, N**^; Cole, CM; **Pannikkat, M**; Bollong, MJ; Rosarda, JD; Kelly, JW#; **Wiseman, RL**# (2024) Metabolically Activated Proteostasis Regulators that Protect Against Erastin-Induced Ferroptosis, *RSC Chem Biol*, in press. ^Co-first authors, #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024KlineMadrazoRSC.png'
@@ -71,16 +81,6 @@
       url: https://grotjahnlab.org/
     - name: Shutt Lab @ U of Calgary
       url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
-
-- citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *bioRXIV* #Co-corresponding authors."
-  date: '2024'
-  image: '/static/img/pub/2024StantonbioRXIV.png'
-  pmid: '38659753'
-  biorxiv: '2024.04.19.589802 ' 
-  pdf: 'https://www.biorxiv.org/content/10.1101/2024.04.19.589802v1.full.pdf+html'
-  links:
-    - name: Bollong lab @ Scripps Research
-      url: https://www.bollong.scripps.edu/
 
 - citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2024) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *bioRXIV*"
   date: '2024'
