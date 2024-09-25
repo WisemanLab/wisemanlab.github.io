@@ -50,6 +50,18 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "**Baron, KR^; Oviedo, S^; Krasny, S**; Zaman, M; **Aldakhlallah, R; Mathur, P**; Pfeffer, G; Bollong, MJ; Shutt, T; Grotjahn, D#; **Wiseman, RL**# (2024) Pharmacologic Activation of Integrated Stress Response Kinases Inhibits Pathologic Mitochondrial Fragmentation, *eLIFE* ^Co-first authors, #Co-corresponding authors."
+  date: '2024'
+  image: '/static/img/pub/2024BaronOviedobioRXIV.png'
+  pmid: 
+  biorxiv: '2024.06.10.598126'
+  pdf: 'https://elifesciences.org/reviewed-preprints/100541'
+  links:
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
+    - name: Shutt Lab @ U of Calgary
+      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
+
 - citation: "**Stanton, C; Buasakdi, C; Sun, J; Levitan, I; Bora, P; Kutseikin, S; Wiseman, RL**#; Bollong, MJ# (2024) The Glycolytic Metabolite Methylglyoxal Covalently Inactivates the NLRP3 Inflammasome, *Cell Reports* #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024StantonbioRXIV.png'
@@ -69,18 +81,6 @@
   links:
     - name: Kelly Lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
-
-- citation: "**Baron, KR^; Oviedo, S^; Krasny, S**; Zaman, M; **Aldakhlallah, R; Mathur, P**; Pfeffer, G; Bollong, MJ; Shutt, T; Grotjahn, D#; **Wiseman, RL**# (2024) Pharmacologic Activation of Integrated Stress Response Kinases Inhibits Pathologic Mitochondrial Fragmentation, *bioRXIV* ^Co-first authors, #Co-corresponding authors."
-  date: '2024'
-  image: '/static/img/pub/2024BaronOviedobioRXIV.png'
-  pmid: 
-  biorxiv: '2024.06.10.598126'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2024.06.10.598126v1.full.pdf'
-  links:
-    - name: Grotjahn Lab @ Scripps Research
-      url: https://grotjahnlab.org/
-    - name: Shutt Lab @ U of Calgary
-      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
 
 - citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2024) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *bioRXIV*"
   date: '2024'
