@@ -50,6 +50,16 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Aksu, M; Kascheke, K; Steckler, I; Schulz, G; Chiang, M; Cogswell, AC; Podpjil, JR; Kelly, JW; **Wiseman, RL**, Miller, S; Popko, B; Chen, Y (2025) AA147 Alleviates Symptoms in a Mouse Model of Multiple Sclerosis by Reducing Oligodendrocyte Loss, *bioRXIV*"
+  date: '2025'
+  image: '/static/img/pub/2025EAEAA147.png'
+  pmid: 
+  biorxiv: '2025.01.01.630914'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2025.01.01.630914v1.full.pdf'
+  links:
+    - name: Chen Lab @ Loyola University Chicago
+      url: https://yananchenlab.weebly.com/
+
 - citation: "**Baron, KR^; Oviedo, S^; Krasny, S**; Zaman, M; **Aldakhlallah, R; Mathur, P**; Pfeffer, G; Bollong, MJ; Shutt, T; Grotjahn, D#; **Wiseman, RL**# (2024) Pharmacologic Activation of Integrated Stress Response Kinases Inhibits Pathologic Mitochondrial Fragmentation, *eLIFE* ^Co-first authors, #Co-corresponding authors."
   date: '2024'
   image: '/static/img/pub/2024BaronOviedobioRXIV.png'
