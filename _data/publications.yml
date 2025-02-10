@@ -50,12 +50,12 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "Aksu, M; Kascheke, K; Steckler, I; Schulz, G; Chiang, M; Cogswell, AC; Podpjil, JR; Kelly, JW; **Wiseman, RL**, Miller, S; Popko, B; Chen, Y (2025) AA147 Alleviates Symptoms in a Mouse Model of Multiple Sclerosis by Reducing Oligodendrocyte Loss, *bioRXIV*"
+- citation: "Aksu, M; Kascheke, K; Steckler, I; Schulz, G; Chiang, M; Cogswell, AC; Podpjil, JR; Kelly, JW; **Wiseman, RL**, Miller, S; Popko, B; Chen, Y (2025) AA147 Alleviates Symptoms in a Mouse Model of Multiple Sclerosis by Reducing Oligodendrocyte Loss, *Glia*"
   date: '2025'
   image: '/static/img/pub/2025EAEAA147.png'
   pmid: 
   biorxiv: '2025.01.01.630914'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2025.01.01.630914v1.full.pdf'
+  pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/glia.70001'
   links:
     - name: Chen Lab @ Loyola University Chicago
       url: https://yananchenlab.weebly.com/
