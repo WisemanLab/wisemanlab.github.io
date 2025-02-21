@@ -50,6 +50,17 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+
+- citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2025) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *Brain*"
+  date: '2025'
+  image: '/static/img/pub/2024TouvieretalbioRXIV.png'
+  pmid: 
+  biorxiv: '2024.01.31.577760' 
+  pdf: 'https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awae407/8027909?searchresult=1' 
+  links:
+    - name: D'Antonio lab @ San Raffaele Scientific Institute, Milan
+      url: https://research.hsr.it/en/divisions/genetics-and-cell-biology/biology-of-myelin/maurizio-d-antonio.html
+  
 - citation: "Aksu, M; Kascheke, K; Steckler, I; Schulz, G; Chiang, M; Cogswell, AC; Podpjil, JR; Kelly, JW; **Wiseman, RL**, Miller, S; Popko, B; Chen, Y (2025) AA147 Alleviates Symptoms in a Mouse Model of Multiple Sclerosis by Reducing Oligodendrocyte Loss, *Glia*"
   date: '2025'
   image: '/static/img/pub/2025EAEAA147.png'
@@ -91,16 +102,6 @@
   links:
     - name: Kelly Lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
-
-- citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2024) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *bioRXIV*"
-  date: '2024'
-  image: '/static/img/pub/2024TouvieretalbioRXIV.png'
-  pmid: 
-  biorxiv: '2024.01.31.577760' 
-  pdf: 'https://www.biorxiv.org/content/10.1101/2024.01.31.577760v1.full.pdf' 
-  links:
-    - name: D'Antonio lab @ San Raffaele Scientific Institute, Milan
-      url: https://research.hsr.it/en/divisions/genetics-and-cell-biology/biology-of-myelin/maurizio-d-antonio.html
 
 - citation: "**Madrazo, N; Khattar, Z**; Powers, ET; Rosarda, JD#; **Wiseman, RL**# (2024) Mapping Stress-Responsive Signaling Pathways Induced by Mitochondrial Proteostasis Perturbations, *Mol Bio Cell* #Co-corresponding authors."
   date: '2024'
