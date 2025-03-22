@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Buasakdi, C; Stanton, C; Bora, P; Chatterjee, PC**; Bollong, MJ#; **Wiseman, RL**# (2025) Optimizing PDIA1 Inhibition as a Strategy to Inhibit NLRP3 Inflammasome Activation and Activity, *bioRXIV* #Co-corresponding authors."
+  date: '2025'
+  image: '/static/img/pub/2025Buasakdi.png'
+  pmid: 
+  biorxiv: '2025.03.21.644355' 
+  pdf: 'https://www.biorxiv.org/content/10.1101/2025.03.21.644355v1.full.pdf'
+  links:
+    - name: Bollong lab @ Scripps Research
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Touvier, T; Veneri, FA; Claessens, A; Ferri, C; Mastrangelo, R; Sorgiati, N; Bianchi, F; Valenzano, S; Del Carro, U; Rivellini, C; Duong, P; Shy, ME; Kelly, JW; Svaren, J; **Wiseman, RL**, D'Antonio, M (2025) Activation of XBP1s attenuates disease severity in models of proteotoxic Charcot-Marie-Tooth type 1B, *Brain*"
   date: '2025'
   image: '/static/img/pub/2024TouvieretalbioRXIV.png'
