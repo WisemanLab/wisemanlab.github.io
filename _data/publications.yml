@@ -55,8 +55,8 @@
   date: '2025'
   image: '/static/img/pub/2025KlineAA263.png'
   pmid: 
-  biorxiv: 
-  pdf: ''
+  biorxiv: '2025.04.04.646800' 
+  pdf: 'https://www.biorxiv.org/content/10.1101/2025.04.04.646800v1.full.pdf'
   links:
     - name: Mu lab @ Case Western
       url: https://sites.google.com/view/mu-lab/home
