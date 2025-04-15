@@ -68,7 +68,7 @@
   image: '/static/img/pub/2025SunIXA62.png'
   pmid: 
   biorxiv: 
-  pdf: ''
+  pdf: 'https://pubs.acs.org/doi/epdf/10.1021/acschembio.4c00867?ref=article_openPDF'
   links:
     - name: Saez lab @ Scripps Research
       url: https://www.scripps.edu/saez/overview.html
