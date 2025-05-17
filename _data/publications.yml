@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Stanton, CR**; Choi, W; **Wiseman, RL**#; Bollong, MJ# (2025) Inhibition of NF-κB Signaling by the Reactive Glycolytic Metabolite Methylglyoxal, *bioRXIV* #Co-corresponding authors."
+  date: '2025'
+  image: '/static/img/pub/2025StantonRSC.png'
+  pmid: 
+  biorxiv: '2025.05.13.653579 ' 
+  pdf: 'https://www.biorxiv.org/content/10.1101/2025.05.13.653579v1.full.pdf'
+  links:
+    - name: Bollong lab @ Scripps
+      url: https://www.bollong.scripps.edu/
+
 - citation: "Kline, GM; Boinen, L; Guerrero, A; **Kutseikin, S; Cruz, G**; Williams, MP; Paxman, RJ; Balch, WE; Kelly, JW#; Mu, TW#; **Wiseman, RL**# (2025) Phenylhydrazone-based Endoplasmic Reticulum Proteostasis Regulator Compounds with Enhanced Biological Activity, *bioRXIV* #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025KlineAA263.png'
