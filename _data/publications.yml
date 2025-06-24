@@ -51,6 +51,18 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Bora, P**^; Zaman, M^; **Oviedo, S; Kutseikin, S; Madrazo, N; Mathur, P; Pannikkat, M; Krasny, S**; Chu, A; Johnson, KA; Grotjahn, DA; Shutt, TE#; **Wiseman RL**# (2025) Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRXIV* ^Co-first authors, #Co-corresponding authors."
+  date: '2025'
+  image: '/static/img/pub/2025BorabioRXIV.png'
+  pmid: 
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Shutt Lab @ U of Calgary
+      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
+    - name: Grotjahn Lab @ Scripps Research
+      url: https://grotjahnlab.org/
+
 - citation: "**Stanton, CR**; Choi, W; **Wiseman, RL**#; Bollong, MJ# (2025) Inhibition of NF-κB Signaling by the Reactive Glycolytic Metabolite Methylglyoxal, *bioRXIV* #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025StantonRSC.png'
