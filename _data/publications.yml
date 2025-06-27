@@ -55,8 +55,8 @@
   date: '2025'
   image: '/static/img/pub/2025BorabioRXIV.png'
   pmid: 
-  biorxiv: ''
-  pdf: ''
+  biorxiv: '2025.06.23.660251 '
+  pdf: 'https://www.biorxiv.org/content/10.1101/2025.06.23.660251v1.full.pdf'
   links:
     - name: Shutt Lab @ U of Calgary
       url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
