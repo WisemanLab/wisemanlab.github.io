@@ -97,12 +97,12 @@
     - name: Kelly Lab @ Scripps Research
       url: https://www.scripps.edu/kelly/
 
-- citation: "**Buasakdi, C; Stanton, C; Bora, P; Chatterjee, PC**; Bollong, MJ#; **Wiseman, RL**# (2025) Optimizing PDIA1 Inhibition as a Strategy to Inhibit NLRP3 Inflammasome Activation and Activity, *bioRXIV* #Co-corresponding authors."
+- citation: "**Buasakdi, C; Stanton, C; Bora, P; Chatterjee, PC**; Bollong, MJ#; **Wiseman, RL**# (2025) Optimizing PDIA1 Inhibition as a Strategy to Inhibit NLRP3 Inflammasome Activation and Activity, *ACS Chem Bio* #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025Buasakdi.png'
   pmid: 
   biorxiv: '2025.03.21.644355' 
-  pdf: 'https://www.biorxiv.org/content/10.1101/2025.03.21.644355v1.full.pdf'
+  pdf: 'https://pubs.acs.org/doi/pdf/10.1021/acschembio.5c00221?ref=article_openPDF'
   links:
     - name: Bollong lab @ Scripps Research
       url: https://www.bollong.scripps.edu/
