@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "del Mar Alicia Pauneto, C; Riesenberg, B; Gandy, EJ; Kennedy, AS; Hurst, KE; Green, JM; Beausang, S; Hunt, EG; Clutton, G; Miller, BC; Gao, P; Esther, RJ; Modliszewski, J; Guerriero, JL; Soto-Pantoja, D; Moschos, SJ; Coleman, M; Milner, JJ; **Wiseman, RL**; Thaxton, JE (2025) The tumor microenvironment imposes ATF4 in CD8+ TILs to Obstruct Immune Checkpoint Blockade Efficacy, *Immunity*"
+  date: '2025'
+  image: '/static/img/pub/2025ThaxtonImmunity.png'
+  pmid: 
+  biorxiv:
+  pdf: 'https://www.cell.com/immunity/fulltext/S1074-7613(25)00414-5f'
+  links:
+    - name: Thaxton Lab @ UNC
+      url: https://www.thaxtonimmuno.com/
+
 - citation: "**Bora, P**^; Zaman, M^; **Oviedo, S; Kutseikin, S; Madrazo, N; Mathur, P; Pannikkat, M; Krasny, S**; Chu, A; Johnson, KA; Grotjahn, DA; Shutt, TE#; **Wiseman RL**# (2025) Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *bioRXIV* ^Co-first authors, #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025BorabioRXIV.png'
