@@ -56,7 +56,7 @@
   image: '/static/img/pub/2025ThaxtonImmunity.png'
   pmid: 
   biorxiv:
-  pdf: 'https://www.cell.com/immunity/fulltext/S1074-7613(25)00414-5f'
+  pdf: 'https://www.cell.com/immunity/pdfExtended/S1074-7613(25)00414-5'
   links:
     - name: Thaxton Lab @ UNC
       url: https://www.thaxtonimmuno.com/
