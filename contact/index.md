@@ -13,6 +13,7 @@ group: contact
 
 <h4>R. Luke Wiseman</h4>
 Professor  <br>
+Berwen Maple Endowed Chair <br>
 Department of Molecular and Cellular Biology  <br>
 Scripps Research, La Jolla, CA  <br>
 email: wiseman (at) scripps.edu <br>
