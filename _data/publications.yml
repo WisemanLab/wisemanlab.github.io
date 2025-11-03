@@ -51,7 +51,17 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
-- citation: Cuoco, C; Ren, W; **Baron, KR**; Gologo, S; **Perea, V**; **Mathur, P**; Ta, A; Chu, A;  **Aldakhlallah, R**; Rhoades, D; Cole, C; Tan, EP; Hou, W; Yoon, L; Guo, X; **Rosarda, JD**; Baran, PS; Kampmann, M; Tillery, L; Johnson, K; Powers, ET; **Wiseman, RL**^; Kelly, JW^ (2025) Pharmacological Targeting of RIG-I Can Selectively Activate the Integrated Stress Response, *Science Advances*. ^Co-corresponding authors."
+- citation: "Fu, X; Wang, YJ; Lee, K; Ahn, LY; Chen X; Harvey, B; Wang, M; Seibert, H; Zhang, PP; Guerrero, A; Schaffer, AE; Richards, CI; **Wiseman, RL**; Kelly, JW; Mu TW (2025) Restoring Proteostasis of Epilepsy-Associated GABAA Receptors by Activating IRE1, *ACS Chem Neuro*"
+  date: '2025'
+  image: '/static/img/pub/2025MuACSChemNeuro.png'
+  pmid: ''
+  biorxiv:
+  pdf: 'https://pubs.acs.org/doi/pdf/10.1021/acschemneuro.5c00227?ref=article_openPDF'
+  links:
+    - name: Mu lab @ Case Western
+      url: https://sites.google.com/view/mu-lab/home
+
+- citation: "Cuoco, C; Ren, W; **Baron, KR**; Gologo, S; **Perea, V**; **Mathur, P**; Ta, A; Chu, A;  **Aldakhlallah, R**; Rhoades, D; Cole, C; Tan, EP; Hou, W; Yoon, L; Guo, X; **Rosarda, JD**; Baran, PS; Kampmann, M; Tillery, L; Johnson, K; Powers, ET; **Wiseman, RL**^; Kelly, JW^ (2025) Pharmacological Targeting of RIG-I Can Selectively Activate the Integrated Stress Response, *Science Advances*. ^Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025A8PaperSciAdv.png'
   pmid: '41160678'
