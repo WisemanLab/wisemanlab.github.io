@@ -23,12 +23,12 @@ tel: 858 784 8820
 
 <div class="col-md-4">
 
-  <h4> Karen Hughes </h4>
+  <h4> Rachel Olson </h4>
   Administrative Assistant <br>
   Department of Molecular and Cellular Biology <br>
   Scripps Research, La Jolla, CA  <br>
-  email:  khughes (at) scripps.edu  <br>
-  tel: 858 784 7917   <br>
+  email:  rolson (at) scripps.edu  <br>
+  tel: 858 784 8062   <br>
 
 </div>
 
