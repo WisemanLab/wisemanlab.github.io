@@ -55,8 +55,8 @@
   date: '2026'
   image: '/static/img/pub/2026KutseikinIXA4SLC33A1.png'
   pmid: 
-  biorxiv: ''
-  pdf: ''
+  biorxiv: '2026.02.17.706344 '
+  pdf: 'https://www.biorxiv.org/content/10.64898/2026.02.17.706344v1.full.pdf'
   links:
     - name: Saez Lab @ Scripps Research
       url: https://www.scripps.edu/saez/lab_members.html
