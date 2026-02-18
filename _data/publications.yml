@@ -51,6 +51,24 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Kutseikin, S; Rafiq, M; Bora, P**; Liu, S; Homan, RA; Mindrebo, JT; Holcomb, M; Petrassi, HM; Qiu, H; Redkina, A; Sosna, J; Lee, TT; Hu, X; Forli, S; Parker, CG; Lander, GC; Birsoy, K; Saez, E#, Wiseman, RL# (2026) Pharmacological Inhibition of SLC33A1 Promotes Endoplasmic Reticulum Hyperoxidation and Induces Adaptive IRE1/XBP1s Activation, *bioRXIV* #Co-corresponding authors."
+  date: '2026'
+  image: '/static/img/pub/2026KutseikinIXA4SLC33A1.png'
+  pmid: 
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Saez Lab @ Scripps Research
+      url: https://www.scripps.edu/saez/lab_members.html
+    - name: Birsoy Lab @ Rockefeller
+      url: https://birsoylab.rockefeller.edu/
+    - name: Lander Lab @ Scripps Research
+      url: https://www.lander-lab.com/
+    - name: Parker Lab @ Scripps Research
+      url: https://www.parkerresearch.org/
+    - name: Forli Lab @ Scripps Research
+      url: https://forlilab.org/
+      
 - citation: "**Bora, P**^; Zaman, M^; **Oviedo, S; Kutseikin, S; Madrazo, N; Mathur, P; Pannikkat, M; Krasny, S**; Chu, A; Johnson, KA; Grotjahn, DA; Shutt, TE#; **Wiseman RL**# (2025) Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *PNAS* ^Co-first authors, #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025BorabioRXIV.png'
