@@ -69,6 +69,18 @@
     - name: Forli Lab @ Scripps Research
       url: https://forlilab.org/
       
+- citation: "Kline, GM; Boinen, L; Guerrero, A; **Kutseikin, S; Cruz, G**; Williams, MP; Paxman, RJ; Balch, WE; Kelly, JW#; Mu, TW#; **Wiseman, RL**# (2026) Phenylhydrazone-based Endoplasmic Reticulum Proteostasis Regulator Compounds with Enhanced Biological Activity, *ELIFE* #Co-corresponding authors."
+  date: '2026'
+  image: '/static/img/pub/2025KlineAA263.png'
+  pmid: '41586813'
+  biorxiv: '2025.04.04.646800' 
+  pdf: 'https://elifesciences.org/reviewed-preprints/107000'
+  links:
+    - name: Mu lab @ Case Western
+      url: https://sites.google.com/view/mu-lab/home
+    - name: Kelly Lab @ Scripps Research
+      url: https://www.scripps.edu/kelly/
+
 - citation: "**Bora, P**^; Zaman, M^; **Oviedo, S; Kutseikin, S; Madrazo, N; Mathur, P; Pannikkat, M; Krasny, S**; Chu, A; Johnson, KA; Grotjahn, DA; Shutt, TE#; **Wiseman RL**# (2025) Drug Repurposing Screen Identifies an HRI Activating Compound that Promotes Adaptive Mitochondrial Remodeling in MFN2-deficient Cells, *PNAS* ^Co-first authors, #Co-corresponding authors."
   date: '2025'
   image: '/static/img/pub/2025BorabioRXIV.png'
@@ -120,18 +132,6 @@
   links:
     - name: Bollong lab @ Scripps
       url: https://www.bollong.scripps.edu/
-
-- citation: "Kline, GM; Boinen, L; Guerrero, A; **Kutseikin, S; Cruz, G**; Williams, MP; Paxman, RJ; Balch, WE; Kelly, JW#; Mu, TW#; **Wiseman, RL**# (2025) Phenylhydrazone-based Endoplasmic Reticulum Proteostasis Regulator Compounds with Enhanced Biological Activity, *ELIFE* #Co-corresponding authors."
-  date: '2025'
-  image: '/static/img/pub/2025KlineAA263.png'
-  pmid: 
-  biorxiv: '2025.04.04.646800' 
-  pdf: 'https://elifesciences.org/reviewed-preprints/107000'
-  links:
-    - name: Mu lab @ Case Western
-      url: https://sites.google.com/view/mu-lab/home
-    - name: Kelly Lab @ Scripps Research
-      url: https://www.scripps.edu/kelly/
 
 - citation: "**Sun, J**; Lee, K; **Kutseikin, S**; Guerrero, A; **Rius, B; Madhavan, A; Buasakdi, C; Cheong, KN; Chatterjee, P; Rosen, DA**; Yoon, L; Ardejani, MS; Mendoza, A; **Rosarda, JD**; Saez, E#; Kelly, JW#; **Wiseman, RL**# (2025) Identification of a Selective Pharmacologic IRE1/XBP1s Activator with Enhanced Tissue Exposure, *ACS Chem Bio* #Co-corresponding authors."
   date: '2025'
