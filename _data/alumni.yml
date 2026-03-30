@@ -1,10 +1,16 @@
+- name: Karen Hughes
+  position: Administrative Assistant
+  startdate: 2018
+  enddate: 20206
+  current: Retired (living the good life!)
+  
 - name: Chavin Buasakdi
   position: Graduate Student
   startdate: 2022
   enddate: 2025
   current: Scripps-Oxford Graduate Student @Oxford
-
-- name: Caroline Stanton, PhD
+  
+  - name: Caroline Stanton, PhD
   position: Graduate Student
   startdate: 2019
   enddate: 2024
