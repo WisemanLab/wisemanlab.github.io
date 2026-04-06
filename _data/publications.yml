@@ -51,6 +51,18 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Rafiq, M; Schaefer, JH; Rahmani, H; You, S; Bollong, MJ; Grotjahn, DA; **Wiseman, RL**; Lander, GC (2026)DM: a simple solution to suppress air-water interface interactions in cryo-EM, *bioRXIV*"
+  date: '2026'
+  image: '/static/img/pub/2026RafiqDM.png'
+  pmid: 
+  biorxiv: '2026.04.02.716008'
+  pdf: 'https://www.biorxiv.org/content/10.64898/2026.04.02.716008v1.full.pdf'
+  links:
+    - name: Lander Lab @ Scripps Research
+      url: https://www.lander-lab.com/
+    - name: Grotjahn lab @ Scripps Research
+      url: https://grotjahnlab.org/
+
 - citation: "**Kutseikin, S; Rafiq, M; Bora, P**; Liu, S; Homan, RA; Mindrebo, JT; Holcomb, M; Petrassi, HM; Qiu, H; Redkina, A; Sosna, J; Lee, TT; Hu, X; Forli, S; Parker, CG; Lander, GC; Birsoy, K; Saez, E#, **Wiseman, RL**# (2026) Pharmacological Inhibition of SLC33A1 Promotes Endoplasmic Reticulum Hyperoxidation and Induces Adaptive IRE1/XBP1s Activation, *bioRXIV* #Co-corresponding authors."
   date: '2026'
   image: '/static/img/pub/2026KutseikinIXA4SLC33A1.png'
