@@ -51,7 +51,7 @@ tel: 858 784 8820
 <h4>Physical Address</h4>
 
 The Skaggs Institute (MB) Building<br>
-Scripps South Driveway MB110<br>
+Scripps South Driveway MB212<br>
 La Jolla, CA 92037
 
 
@@ -62,7 +62,7 @@ La Jolla, CA 92037
 <h4>Mailing Address</h4>
 
 The Scripps Research Institute<br>
-10550 N. Torrey Pines Rd. MB-110<br>
+10550 N. Torrey Pines Rd. MB212<br>
 La Jolla, CA 92037
 
 </div>
@@ -71,7 +71,7 @@ La Jolla, CA 92037
 
 <h4>Shipping Address</h4>
 
-The Scripps Research Institute, MB110<br>
+The Scripps Research Institute, MB212<br>
 9365 Waples Street, Suite E<br>
 San Diego, CA 92121
 
@@ -93,8 +93,8 @@ San Diego, CA 92121
 
 ### Once on campus, proceed to the Skaggs Institute (Molecular Biology) building:
 1. You can enter into doors on either side of the building, but you will require key card access. Please call our lab for access.
-2. We are located in on first floor of the building on the west side in room MB110. There is a sign by the door indicating the Wiseman lab.
-3. Luke's office is in MB110. Please walk straight ahead into the lab and his office is straight ahead.
+2. We are located in on second floor of the building on the west side in room MB212. There is a sign by the door indicating the Wiseman lab.
+3. Luke's office is in MB212. Please walk straight ahead into the lab and his office is straight ahead.
 
 
 <img class="img-fluid" src="/static/img/ScrippsMap.jpg" alt="Map of Mission Bay">
