@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "Zaman, M; Chute, C; Marcadier, JL; Grewal, S; **Wiseman, RL**; Tyndall, AV; McInnes, Innes, AM; Bernier, P, Shutt, TE (2026) A novel variant in MFN2 linked to a lethal disorder of neonatal onset, *medRXIV*"
+  date: '2026'
+  image: '/static/img/pub/2026Zaman.png'
+  pmid: 
+  biorxiv: 
+  pdf: 'https://www.medrxiv.org/content/10.1101/2024.09.05.24313021v3'
+  links:
+    - name: Shutt Lab @ U of Calgary
+      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
+
 - citation: "**Rafiq, M**; Schaefer, JH; Rahmani, H; You, S; Bollong, MJ; Grotjahn, DA; **Wiseman, RL**; Lander, GC (2026) DM: a simple solution to suppress air-water interface interactions in cryo-EM, *bioRXIV*"
   date: '2026'
   image: '/static/img/pub/2026RafiqDMpng.png'
