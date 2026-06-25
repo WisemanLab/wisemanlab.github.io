@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "Dua, N; Ma, B; **Oviedo, S**; Rahmani, H; Boyd, T; Park, D; **Wiseman, RL**; Grotjahn, D (2026) ATAD3A structurally links mtDNA replication and mitochondrial fission, *bioRXIV*"
+  date: '2026'
+  image: '/static/img/pub/2026DuaetalbioRXIV.png'
+  pmid: ''
+  biorxiv: '2026.06.23.733767'
+  pdf: 'https://www.biorxiv.org/content/10.64898/2026.06.23.733767v1.full.pdf'
+  links:
+    - name: Grotjahn lab @ Scripps Research
+      url: https://grotjahnlab.org/
+
 - citation: "Zaman, M; Chute, C; Marcadier, JL; Grewal, S; **Wiseman, RL**; Tyndall, AV; McInnes, Innes, AM; Bernier, P, Shutt, TE (2026) A novel variant in MFN2 linked to a lethal disorder of neonatal onset, *medRXIV*"
   date: '2026'
   image: '/static/img/pub/2026Zaman.png'
