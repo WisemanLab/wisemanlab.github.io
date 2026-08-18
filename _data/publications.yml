@@ -56,7 +56,7 @@
   image: '/static/img/pub/2026Cheongetalbiorxiv.png'
   pmid: ''
   biorxiv: '10.64898/2026.08.14.744935'
-  pdf: 'www.biorxiv.org/content/10.64898/2026.08.14.744935v1.full.pdf'
+  pdf: 'https://www.biorxiv.org/content/10.64898/2026.08.14.744935v1.full.pdf'
   links:
     - name: Mendoza lab @ Scripps Research
       url: https://themendozalab.org/
