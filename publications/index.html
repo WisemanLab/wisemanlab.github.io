@@ -28,7 +28,9 @@ group: publications
 
 			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
+			{% assign biorxiv_doi = publication.biorxiv %}
+			{% unless biorxiv_doi contains '/' %}{% assign biorxiv_doi = '10.1101/' | append: biorxiv_doi %}{% endunless %}
+			<li>Biorxiv Preprint: <a href="https://doi.org/{{ biorxiv_doi }}" alt="biorxiv preprint link: {{ biorxiv_doi }}">{{ publication.biorxiv | split: '.' | last }}</a></li>
 			{% endif %}
 
 			<!--Arxiv - optional -->
