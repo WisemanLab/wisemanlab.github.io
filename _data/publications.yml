@@ -55,7 +55,7 @@
   date: '2026'
   image: '/static/img/pub/2026Cheongetlabiorxiv.png'
   pmid: ''
-  biorxiv: '2026.08.14.744935'
+  biorxiv: '10.64898/2026.08.14.744935'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.08.14.744935v1.full.pdf'
   links:
     - name: Mendoza lab @ Scripps Research
@@ -65,7 +65,7 @@
   date: '2026'
   image: '/static/img/pub/2026DuaetalbioRXIV.png'
   pmid: ''
-  biorxiv: '2026.06.23.733767'
+  biorxiv: '10.64898/2026.06.23.733767'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.06.23.733767v1.full.pdf'
   links:
     - name: Grotjahn lab @ Scripps Research
@@ -85,7 +85,7 @@
   date: '2026'
   image: '/static/img/pub/2026RafiqDMpng.png'
   pmid: '41959516'
-  biorxiv: '2026.04.02.716008'
+  biorxiv: '10.64898/2026.04.02.716008'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.04.02.716008v1.full.pdf'
   links:
     - name: Lander Lab @ Scripps Research
@@ -97,7 +97,7 @@
   date: '2026'
   image: '/static/img/pub/2026KutseikinIXA4SLC33A1.png'
   pmid: '41757008'
-  biorxiv: '2026.02.17.706344'
+  biorxiv: '10.64898/2026.02.17.706344'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.02.17.706344v1.full.pdf'
   links:
     - name: Saez Lab @ Scripps Research
