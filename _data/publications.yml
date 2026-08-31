@@ -51,6 +51,20 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Chatterjee, P; Sanchez Ortiz, K; Dikiy, S; Bollong, MJ; Thaxton, JE; Mendoza, A#; **Wiseman, RL**#(2026) Metabolically Activated Proteostasis Regulators Reduce Differentiation of CD4+ TH17 Cells, *bioRXIV* #Co-corresponding authors."
+  date: '2026'
+  image: '/static/img/pub/2026Chatterjeebiorxiv.png'
+  pmid: ''
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Mendoza lab @ Scripps Research
+      url: https://themendozalab.org/
+    - name: Thaxton Lab @ UNC
+      url: https://www.thaxtonimmuno.com/
+    - name: Bollong lab @ Scripps
+      url: https://www.bollong.scripps.edu/
+
 - citation: "**Cheong, KN**; Jara, JS; Sewall, LM; Dikiy, S; Le, X; Wolman, N; Ward, AB; **Wiseman, RL**; Mendoza, A (2026) Maternal antiviral history synergizes with pregnancy and lactation to transfer intergenerational systemic immunity through IgG in milk, *bioRXIV*"
   date: '2026'
   image: '/static/img/pub/2026Cheongetlabiorxiv.png'
