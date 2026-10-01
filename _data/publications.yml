@@ -51,6 +51,16 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "Zaman, M; David, J; Mehrabi, A; Chute, C; Deng, J; Soule, T; **Wiseman, RL**, Antonescu, CN; Colarusso, P; Pfeffer, G; Shutt, TE (2026) Pathogenic Mitofusin 2 variants causing myopathy drive endosomal mtDNA release and inflammation, *medRXIV*"
+  date: '2026'
+  image: '/static/img/pub/2026ZamanMedRXIVmtDNA.png'
+  pmid: 
+  biorxiv: 
+  pdf: 'https://www.medrxiv.org/content/10.64898/2026.09.22.26363493v1'
+  links:
+    - name: Shutt Lab @ U of Calgary
+      url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
+
 - citation: "**Chatterjee, P; Sanchez Ortiz, K**; Dikiy, S; Bollong, MJ; Thaxton, JE; Mendoza, A#; **Wiseman, RL**#(2026) Metabolically Activated Proteostasis Regulators Reduce Differentiation of CD4+ TH17 Cells, *bioRXIV* #Co-corresponding authors."
   date: '2026'
   image: '/static/img/pub/2026Chatterjeebiorxiv.png'
@@ -78,7 +88,7 @@
 - citation: "Dua, N; Ma, B; **Oviedo, S**; Rahmani, H; Boyd, T; Park, D; **Wiseman, RL**; Grotjahn, D (2026) ATAD3A structurally links mtDNA replication and mitochondrial fission, *bioRXIV*"
   date: '2026'
   image: '/static/img/pub/2026DuaetalbioRXIV.png'
-  pmid: ''
+  pmid: '42798394'
   biorxiv: '10.64898/2026.06.23.733767'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.06.23.733767v1.full.pdf'
   links:
