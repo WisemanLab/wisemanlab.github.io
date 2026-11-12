@@ -51,6 +51,18 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
+- citation: "**Sanchez Ortiz, K; Chatterjee, P; Dion, W; Pannikkat, M; Kutseikin, S**; Basso, T; **Mathur**, P; Dikiy, S; Saez, E; Thaxton, JE; **Wiseman, RL**#; Mendoza, A#; (2026) Pharmacologic IRE1 Activation Rewires Cholesterol Metabolism to Suppress TH17 Differentiation, *bioRXIV* #Co-corresponding authors."
+  date: '2026'
+  image: '/static/img/pub/2026SanchezOrtizIXA4v1.png'
+  pmid: ''
+  biorxiv: ''
+  pdf: ''
+  links:
+    - name: Mendoza lab @ Scripps Research
+      url: https://themendozalab.org/
+    - name: Thaxton Lab @ UNC
+      url: https://www.thaxtonimmuno.com/
+
 - citation: "Zaman, M; David, J; Mehrabi, A; Chute, C; Deng, J; Soule, T; **Wiseman, RL**, Antonescu, CN; Colarusso, P; Pfeffer, G; Shutt, TE (2026) Pathogenic Mitofusin 2 variants causing myopathy drive endosomal mtDNA release and inflammation, *medRXIV*"
   date: '2026'
   image: '/static/img/pub/2026ZamanMedRXIVmtDNA.png'
