@@ -61,12 +61,12 @@
     - name: Shutt Lab @ U of Calgary
       url: https://cumming.ucalgary.ca/departments/bmb/profiles/dr-timothy-shutt
 
-- citation: "**Chatterjee, P; Sanchez Ortiz, K**; Dikiy, S; Bollong, MJ; Thaxton, JE; Mendoza, A#; **Wiseman, RL**#(2026) Metabolically Activated Proteostasis Regulators Reduce Differentiation of CD4+ TH17 Cells, *bioRXIV* #Co-corresponding authors."
+- citation: "**Chatterjee, P; Sanchez Ortiz, K**; Dikiy, S; Bollong, MJ; Thaxton, JE; Mendoza, A#; **Wiseman, RL**#(2026) Metabolically Activated Proteostasis Regulators Reduce Differentiation of CD4+ TH17 Cells, *ELIFE* #Co-corresponding authors."
   date: '2026'
   image: '/static/img/pub/2026Chatterjeebiorxiv.png'
   pmid: '42922550'
   biorxiv: '10.64898/2026.09.02.747634'
-  pdf: 'https://www.biorxiv.org/content/10.64898/2026.09.02.747634v1.full.pdf'
+  pdf: 'https://elifesciences.org/reviewed-preprints/113067'
   links:
     - name: Mendoza lab @ Scripps Research
       url: https://themendozalab.org/
